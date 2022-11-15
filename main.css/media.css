@@ -1,0 +1,52 @@
+@media(max-width:1000px) {
+    .sitefomr {
+        flex-direction: column;
+        margin: 10px 0px;
+    }
+
+    .sitefomr input {
+        margin: 10px 0px;
+    }
+}
+
+@media(max-width:720px) {
+    .pt-5 {
+        padding-top: 1rem !important;
+    }
+
+    .phnumber,
+    .bookonline {
+        margin-top: 20px;
+    }
+
+    .smartcityhighlight p {
+        font-size: 12px;
+    }
+
+    .map {
+        margin: 40px 0px;
+    }
+
+    .smartcityhighlight {
+        display: none;
+    }
+
+    .schedulevisit .p-5 {
+        padding: 1rem 0rem !important;
+    }
+
+    .bookonlinecont .p-3 {
+        padding: 0rem !important;
+
+    }
+
+    .footer .p-5 {
+        padding: 1rem !important;
+    }
+
+    .footer .text-end {
+        text-align: center !important;
+    }
+
+
+}

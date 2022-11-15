@@ -1,0 +1,173 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.nav-link {
+    color: #004282;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.bookonline {
+    background-image: linear-gradient(to right, #4a9c46, #3db138, #40d954, #5cc044, #4b9f45);
+    color: white;
+}
+
+.phnumber {
+    padding: 7px;
+    color: #f3842f;
+    border: 2px solid #f3842f;
+    font-weight: bold;
+}
+
+.phnumber:hover {
+    background: #f3842f;
+    color: #ffffff;
+}
+
+
+.owl-theme .owl-nav.disabled+.owl-dots {
+    position: absolute;
+    border: 46px;
+    left: 50%;
+    bottom: 20px;
+}
+
+.owl-carousel img {
+    width: 100%;
+}
+
+.position-fixed {
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    z-index: 9999999;
+}
+
+.blank {
+    width: 100%;
+    height: 120px;
+}
+
+.sitevisit {
+    background: #306598;
+}
+
+.overviewright p i {
+    color: #004282;
+}
+
+.backgroundlight,
+.schedulevisit {
+    background: #f3f3f3;
+}
+
+.plotsdiv {
+    text-align: center;
+    align-items: center;
+    box-shadow: 0px 0px 10px 3px #ccc;
+    font-size: 22px;
+    font-weight: 600;
+    margin: 30px 15px;
+}
+
+.tablehead,
+.footer {
+    background: #306598;
+    color: white;
+}
+
+
+.tablehead th,
+td {
+    padding: 15px 10px;
+    border: 1px solid rgb(147, 139, 139);
+    width: 500px;
+    text-align: center;
+}
+
+.thead th {
+    padding: 20px;
+    text-align: center;
+    border: 1px solid rgb(157, 151, 151);
+    background: #306598;
+    color: white;
+}
+
+.tablebtn {
+    background: black;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: 0.9rem;
+    border: none;
+    outline: none;
+}
+
+.tablebtn:hover {
+    background: #ce9600;
+    color: black;
+}
+
+.smartiem p {
+    font-size: 15px;
+}
+
+.sitebvisitbtn {
+    box-shadow: 0px 35px 40px 0px rgb(183, 175, 175);
+    border-radius: 10px;
+}
+
+.sitebvisitbtn:hover {
+    background: rgb(188, 188, 2);
+}
+
+.map {
+    margin: 80px 0px;
+    --bs-gutter-x: 0rem;
+}
+
+.faqcontainer .ans {
+    display: none;
+}
+
+.qustion {
+    cursor: pointer;
+    user-select: none;
+}
+
+.sp2 {
+    display: none;
+}
+
+
+.tree {
+    width: 64px;
+}
+
+.tree img {
+    width: 100%;
+}
+
+.galleryimg col img {
+    height: 250px;
+}
+
+.bankimg {
+    max-height: 150px;
+    max-width: 150px;
+    box-shadow: 0px 0px 10px 3px #ccc;
+}
+
+.bankimg img {
+    height: 100%;
+}
+
+.schedule {
+    border: 5px solid #0886c7;
+    width: 87%;
+}
